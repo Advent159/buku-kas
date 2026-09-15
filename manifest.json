@@ -1,0 +1,33 @@
+{
+  "short_name": "Buku Kas",
+  "name": "Buku Kas Sederhana",
+  "description": "Aplikasi buku kas sederhana untuk mencatat pemasukan dan pengeluaran",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%2314b8a6'/><text x='96' y='140' font-size='120' text-anchor='middle'>📒</text></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%2314b8a6'/><text x='256' y='370' font-size='320' text-anchor='middle'>📒</text></svg>",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%2314b8a6'/><text x='256' y='370' font-size='320' text-anchor='middle'>📒</text></svg>",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#14b8a6",
+  "background_color": "#fef9f3",
+  "lang": "id",
+  "categories": ["finance", "productivity"]
+}
